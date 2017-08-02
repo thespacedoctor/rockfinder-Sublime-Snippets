@@ -1,0 +1,8 @@
+{
+"scope": "source.python",
+"completions":
+[
+   
+	{ "trigger": "rf> generate ephemeris for asteroid at given epochs\tcomp", "contents": "xrf-generate-ephemeris-for-asteroid-at-given-epochs" } 
+]
+}
